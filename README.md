@@ -1,6 +1,6 @@
 ### Hello! :smile:
 
- My name is Alyne, I'm a Front-end developer, and I'm specializing in:
+ My name is Alyne, I'm a Front-end developer passionate about technology, and I'm specializing in:
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html-logo" width=30px/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css-logo" width=30px /> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Java-Script-logo" width=25px/> 
 <br>
